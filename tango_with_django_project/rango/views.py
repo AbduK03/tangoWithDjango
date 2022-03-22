@@ -1,5 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+# Import the Category model
+from rango.models import Category
+
 # Create your views here.
 
 def index(request):
