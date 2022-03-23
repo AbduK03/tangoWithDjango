@@ -37,7 +37,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-   '172.30.191.31'
+    '172.30.191.31',
+    'http://abdu03.pythonanywhere.com/'
 ]
 
 
